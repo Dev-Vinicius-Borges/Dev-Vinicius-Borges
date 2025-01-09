@@ -2,7 +2,7 @@
   "type": "rainbow",
   "fileName": "profile-custom-rainbow.svg",
   "backgroundColor": "transparent",
-  "foregroundColor": "#eeeeff",
+  "foregroundColor": "#000000",  // Preto
   "strongColor": "rgb(255,200,55)",
   "weakColor": "#aaaaaa",
   "radarColor": "rgb(255,200,55)",
