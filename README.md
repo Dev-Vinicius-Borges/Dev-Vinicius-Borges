@@ -1,5 +1,5 @@
 <img src="./images/Vector.svg" style="width:100%;">
-<img src="./images/about.svg" style="width:100%;">
+<img src="./images/about_me.svg" style="width:100%;">
 
 <h1 align="center">Stacks</h1>
 <div align="left">
