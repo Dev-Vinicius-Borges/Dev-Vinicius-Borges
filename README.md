@@ -18,17 +18,17 @@
   <h2>Bibliotecas e ferramentas</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,git,docker,androidstudio,postman">
-    <img src="./images/icons/insomnia.svg" width="50">
-    <img src="./images/icons/trello.svg" width="50">
-    <img src="./images/icons/chartjs.svg" width="50">
+    <img src="./images/logos/insomnia.svg" width="50">
+    <img src="./images/logos/trello.svg" width="50">
+    <img src="./images/logos/chartjs.svg" width="50">
   </a>
 </div>
 <div align="right">
   <h2>Design</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,blender">
-    <img src="./images/icons/gimp.svg" width="50">
-    <img src="./images/icons/krita.svg" width="50">
+    <img src="./images/logos/gimp.svg" width="50">
+    <img src="./images/logos/krita.svg" width="50">
   </a>
 </div>
 <img src="./profile-3d-contrib/profile-custom-rainbow.svg" style="width:100%;">
