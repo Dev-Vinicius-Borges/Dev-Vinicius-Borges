@@ -1,7 +1,7 @@
 <img src="./images/Vector.svg" style="width:100%;">
 <img src="./images/about_me.svg" style="width:100%;">
 
-<h1 align="center">Stacks</h1>
+<h1>Stacks</h1>
 <div>
   <h2>Frontend</h2>
   <a href="https://skillicons.dev">
