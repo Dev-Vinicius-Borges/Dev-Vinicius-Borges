@@ -2,21 +2,20 @@
 <img src="./images/about_me.svg" style="width:100%;">
 
 <h1 align="center">Stacks</h1>
-<div align="left">
+<div>
   <h2>Frontend</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind,bootstrap&perline=4">
-    <br>
-    <img src="./images/logos/chartjs.svg" width="48">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,styledcomponents,tailwind,bootstrap&perline=5">
+    <img src="./images/logos/chartjs.svg" width="48" align="top">
   </a>
 </div>
-<div align="right">
+<div>
   <h2>Backend</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,php,laravel,java,ts,mysql,sqlite,mongodb&perline=4">
+    <img src="https://skillicons.dev/icons?i=cs,nodejs,express,nestjs,python,flask,php,laravel,java,ts,prisma,mysql,sqlite,mongodb&perline=6">
   </a>
 </div>
-<div align="left">
+<div>
   <h2>Ferramentas</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,git,docker,androidstudio,postman&perline=4">
@@ -24,7 +23,7 @@
     <img src="./images/logos/trello.svg" width="48" align="top">
   </a>
 </div>
-<div align="right">
+<div>
   <h2>Design</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,blender">
