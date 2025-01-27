@@ -1,4 +1,5 @@
 <img src="./images/Vector.svg" style="width:100%;">
+<img src="./images/about_me.svg" style="width:100%;">
 
 <h1>Stacks</h1>
 <div>
